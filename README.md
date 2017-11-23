@@ -2,7 +2,6 @@
 
  * Author: Ivan Verano
  * Date: 23.11.2017
- 
  * USE Arduino IDE 1.6.6
  * Arduino alarm clock with DS3231 and IC2 16x2 LCD  
  * FEATURES:
@@ -13,8 +12,7 @@
  * Menu based navigation system
  * DS3231 - Alarm1  
  * Save information of Alarm in EEPROM
- * Debounce buttons 
- * 
+ * Debounce buttons  
  * LCD (I2C module):
  * SCL - A5
  * SDA - A4
